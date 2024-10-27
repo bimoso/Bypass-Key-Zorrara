@@ -1,0 +1,6 @@
+C:\Users\USER\Proyectos\C#\Free Zorrara\obj\x64\Debug\net6.0\Free Zorrara.csproj.AssemblyReference.cache
+C:\Users\USER\Proyectos\C#\Free Zorrara\obj\x64\Debug\net6.0\Free Zorrara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Proyectos\C#\Free Zorrara\obj\x64\Debug\net6.0\Free Zorrara.AssemblyInfoInputs.cache
+C:\Users\USER\Proyectos\C#\Free Zorrara\obj\x64\Debug\net6.0\Free Zorrara.AssemblyInfo.cs
+C:\Users\USER\Proyectos\C#\Free Zorrara\obj\x64\Debug\net6.0\Free Zorrara.csproj.CoreCompileInputs.cache
+C:\Users\USER\Proyectos\C#\Free Zorrara\obj\x64\Debug\net6.0\Free Zorrara.sourcelink.json

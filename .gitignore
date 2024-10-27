@@ -1,0 +1,4 @@
+# Ignorar binarios y archivos de respaldo
+/bin
+Respaldo.cs
+/.vs
