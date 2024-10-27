@@ -46,7 +46,7 @@ Zorrara Key Bypass es una herramienta eficiente desarrollada en C# que permite a
 ### Prerrequisitos
 
 - Visual Studio 2019/2022
-- .NET Framework 4.7.2 o superior
+- .NET 8.0 o superior
 - NuGet Package Manager
 
 ### Pasos de Instalación
