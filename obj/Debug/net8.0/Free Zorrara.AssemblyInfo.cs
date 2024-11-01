@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Free Zorrara")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51ca46614f1932875346d3a17d698d08546e91b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Free Zorrara")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Free Zorrara")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
